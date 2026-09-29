@@ -1,0 +1,74 @@
+﻿[
+  {
+    "id": "1",
+    "title": "El hombre en busca de sentido",
+    "author": "Viktor Frankl",
+    "category": "Psicología / Testimonio",
+    "image_url": "https://static.cegal.es/imagenes/marcadas/9788425/978842542331.gif",
+    "price": 45,
+    "description": "Basado en la experiencia del autor en los campos de concentración nazis, aborda cómo encontrar propósito y sentido a la vida incluso ante el sufrimiento más extremo."
+  },
+  {
+    "id": "2",
+    "title": "Los patitos feos",
+    "author": "Boris Cyrulnik",
+    "category": "Psicología",
+    "image_url": "https://images.cdn2.buscalibre.com/fit-in/660x660/5f/b3/5fb34e2d602668848b5b8617cec5e0dc.jpg",
+    "price": 68,
+    "description": "Obra de referencia sobre la resiliencia infantil y adulta que explica cómo las heridas traumáticas pueden transformarse en desarrollo y fortaleza personal."
+  },
+  {
+    "id": "3",
+    "title": "Grit: El poder de la pasión y la perseverancia",
+    "author": "Angela Duckworth",
+    "category": "Desarrollo Personal",
+    "image_url": "https://librosparaemprendedores.net/wp-content/uploads/2026/06/grit-el-poder-de-la-pasion-y-la-perseverancia-sq.jpg",
+    "price": 75,
+    "description": "Demuestra a través de investigaciones que la combinación de pasión y perseverancia a largo plazo es más determinante para el éxito que el talento innato."
+  },
+  {
+    "id": "4",
+    "title": "Opción B",
+    "author": "Sheryl Sandberg & Adam Grant",
+    "category": "Autoayuda / Psicología",
+    "image_url": "https://m.media-amazon.com/images/I/41rG0SQY3hL._SL500_.jpg",
+    "price": 62,
+    "description": "Una guía práctica sobre cómo afrontar la adversidad, superar el duelo y cultivar la resiliencia tras sufrir una pérdida devastadora."
+  },
+  {
+    "id": "5",
+    "title": "No puedes hacerme daño (Can't Hurt Me)",
+    "author": "David Goggins",
+    "category": "Biografía / Fortaleza Mental",
+    "image_url": "https://images.cdn2.buscalibre.com/fit-in/660x660/dc/0e/dc0e661e8e011c26e6ba5c24cd1012d6.jpg",
+    "price": 85,
+    "description": "La historia del ex-SEAL de la Marina que enseña a dominar la mente, superar el dolor físico y emocional, y superar los límites autopercibidos."
+  },
+  {
+    "id": "6",
+    "title": "El obstáculo es el camino",
+    "author": "Ryan Holiday",
+    "category": "Filosofía / Estoicismo",
+    "image_url": "https://www.penguinlibros.com/es/5738319-large_default/el-obstaculo-es-el-camino.webp",
+    "price": 52,
+    "description": "Inspirado en la filosofía estoica, muestra cómo convertir las pruebas, contratiempos y dificultades en oportunidades para crecer."
+  },
+  {
+    "id": "7",
+    "title": "El cuerpo lleva la cuenta",
+    "author": "Bessel van der Kolk",
+    "category": "Neurociencia / Trauma",
+    "image_url": "https://static.cegal.es/imagenes/marcadas/9788412/978841206719.gif",
+    "price": 95,
+    "description": "Explora cómo el trauma impacta el cuerpo y la mente, proponiendo tratamientos innovadores para la recuperación y la resiliencia neurológica."
+  },
+  {
+    "id": "8",
+    "title": "Resiliente",
+    "author": "Rick Hanson",
+    "category": "Neurociencia / Mindfulness",
+    "image_url": "https://images4.penguinrandomhouse.com/smedia/9780451498861",
+    "price": 70,
+    "description": "Combina neurociencia y prácticas de atención plena para desarrollar un núcleo inquebrantable de paz, fortaleza y bienestar interior."
+  }
+]

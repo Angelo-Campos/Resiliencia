@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="640" height="480" role="img" aria-label="Ilustración temporal">
+  <rect width="640" height="480" fill="#F5F2EB"/>
+
+  <circle cx="320" cy="240" r="170" fill="#FFFDF7"/>
+  <circle cx="320" cy="240" r="170" fill="none" stroke="#FFFFFF" stroke-width="8"/>
+
+  <g stroke="#FFFFFF" stroke-width="6" stroke-linecap="round">
+    <line x1="320" y1="110" x2="320" y2="370"/>
+    <line x1="190" y1="240" x2="450" y2="240"/>
+  </g>
+
+  <rect x="196" y="176" width="96" height="128" rx="14" fill="#FB7185"/>
+  <rect x="196" y="176" width="96" height="128" rx="14" fill="none" stroke="#BE123C" stroke-width="7"/>
+  <rect x="252" y="158" width="8" height="164" rx="4" fill="#BE123C"/>
+
+  <rect x="388" y="176" width="96" height="128" rx="14" fill="#FBBF24"/>
+  <rect x="388" y="176" width="96" height="128" rx="14" fill="none" stroke="#B45309" stroke-width="7"/>
+  <rect x="432" y="158" width="8" height="164" rx="4" fill="#B45309"/>
+
+  <circle cx="500" cy="120" r="18" fill="#10B981"/>
+  <circle cx="500" cy="120" r="18" fill="none" stroke="#047857" stroke-width="6"/>
+
+  <path d="M132 118 l10 24 24 10 -24 10 -10 24 -10 -24 -24 -10 24 -10 z" fill="#A855F7"/>
+
+  <circle cx="120" cy="392" r="10" fill="#60A5FA"/>
+  <circle cx="546" cy="386" r="14" fill="#F472B6"/>
+  <circle cx="196" cy="404" r="7" fill="#34D399"/>
+
+  <g fill="none" stroke="#1D3557" stroke-width="7" stroke-linecap="round">
+    <path d="M96 210 q22 -26 44 0 t44 0"/>
+  </g>
+</svg>
