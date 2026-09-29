@@ -24,7 +24,7 @@ import { create } from "zustand";
   export const zustandApi = create<Store>((set)=>({
     array:null,
      llamada: async() => {
-        const response = await axios.get('/Api/books.json') 
+        const response = await axios.get('/Resiliencia/Api/books.json') 
         set({array:response.data})
      }
   }))
