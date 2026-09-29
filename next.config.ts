@@ -1,7 +1,10 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
+  output: 'export', 
+  basePath: '/Resiliencia', 
   images: {
+    unoptimized: true, 
     remotePatterns: [
       { protocol: "https", hostname: "static.cegal.es" },
       { protocol: "https", hostname: "images.cdn2.buscalibre.com" },
