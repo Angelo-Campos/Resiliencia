@@ -47,9 +47,29 @@ import Link from "next/link";
       icon: <Zap className="w-5 h-5" />,
       link: '/Impulsos/tema4-01'
     },
-    { id: '05', type: 'locked', link:null },
-    { id: '06', type: 'locked', link:null },
-    { id: '07', type: 'locked',  link:null},
+    {
+      id: '05',
+      title: 'Impulsos',
+      type: 'completed',
+      color: 'bg-purple-500 text-white border-b-4 border-purple-700',
+      icon: <Zap className="w-5 h-5" />,
+      link: '/Impulsividad/page01'
+    },{
+      id: '06',
+      title: 'Tecnicas de Control.1',
+      type: 'completed',
+      color: 'bg-purple-500 text-white border-b-4 border-purple-700',
+      icon: <Zap className="w-5 h-5" />,
+      link: '/TecnicasControl/page01'
+    },
+    {
+      id: '07',
+      title: 'Tecnicas de Control.2',
+      type: 'completed',
+      color: 'bg-purple-500 text-white border-b-4 border-purple-700',
+      icon: <Zap className="w-5 h-5" />,
+      link: '/TecnicasControl2/tema7-01'
+    },
     { id: '08', type: 'locked' , link:null},
     { id: '09', type: 'locked',  link:null},
     { id: '10', type: 'locked' , link:null},

@@ -13,42 +13,42 @@ export interface TeamMember {
 const teamMembers: TeamMember[] = [
   {
     id: 1,
-    name: "Ana García",
+    name: "ANGELO STEVEN CAMPOS SULCA",
     role: "Líder de Proyecto",
     bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     imageUrl: ""
   },
   {
     id: 2,
-    name: "Carlos Mendoza",
+    name: "CARLO ANDRE PEÑA TORRES",
     role: "Desarrollador Frontend",
     bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.",
     imageUrl: ""
   },
   {
     id: 3,
-    name: "Sofía Martínez",
+    name: "VALERIA ESTEFANY TOLEDO COLUNGA",
     role: "Diseñadora UX/UI",
     bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
     imageUrl: ""
   },
   {
     id: 4,
-    name: "Diego López",
-    role: "Desarrollador Backend",
+    name: "LORENA ABIGAIL CÓNDOR URRUTIA",
+    role: "Diseñadora UX/UI",
     bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui.",
     imageUrl: ""
   },
   {
     id: 5,
-    name: "Lucía Torres",
+    name: "JUNIOR MICHAELL BARRUTIA CASTRO ",
     role: "Especialista QA",
     bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error sit voluptatem.",
     imageUrl: ""
   },
   {
     id: 6,
-    name: "Mateo Ramírez",
+    name: "SABRINA FERNANDA AGUILAR DIAZ",
     role: "DevOps Engineer",
     bio: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit.",
     imageUrl: ""
