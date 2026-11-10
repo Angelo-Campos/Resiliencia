@@ -1,4 +1,4 @@
-import { ArrowRight, GraduationCap, Heart } from "lucide-react";
+import { ArrowRight, GraduationCap } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 import brain from "../../assets/brain.jpeg";
@@ -56,7 +56,7 @@ import string from "../../assets/string.jpeg";
               ¡sin importar lo que pase!
             </p>
 
-            <Link href="/resiliencia/tema1-01">
+            <Link href="/temas">
               <button className="bg-[#FFB703] text-[#1D3557] font-extrabold text-lg px-8 py-3.5 rounded-full shadow-lg transition-all duration-200 flex items-center gap-2 mx-auto border-b-4 border-amber-600 cursor-pointer" data-aos="fade-up" data-aos-delay="400">
               Comenzar
               <ArrowRight className="w-5 h-5 stroke-[3]" />
@@ -79,15 +79,6 @@ import string from "../../assets/string.jpeg";
           </div>
         </div>
       </main>
-      <footer className="p-4 px-8 flex flex-col sm:flex-row justify-between items-center text-xs text-slate-500 gap-2 w-[80%] mx-auto">
-        <p>
-          Plataforma Educativa de Aprendizaje Socioemocional • Nivel Inicial (5-7 años)
-        </p>
-        <p className="flex items-center gap-1 font-medium">
-          <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500" />
-          Con amor para pequeños grandes exploradores
-        </p>
-      </footer>
     </div>
   );
   }

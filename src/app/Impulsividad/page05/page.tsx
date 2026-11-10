@@ -8,7 +8,6 @@ import {
   ArrowRight,
   Map,
   Home,
-  Heart,
   AlertTriangle,
   CheckCircle2,
   VolumeX,
@@ -284,13 +283,6 @@ export default function ConsecuenciasAmablesPage() {
       </div>
 
       {/* Footer minimalista */}
-      <footer className="max-w-7xl mx-auto w-full flex flex-col sm:flex-row items-center justify-between text-xs text-stone-500 pt-8 mt-6 border-t border-stone-200/50 gap-2">
-        <p>Plataforma Educativa de Aprendizaje Socioemocional • Nivel Inicial (5-7 años)</p>
-        <p className="flex items-center gap-1">
-          <span>Con amor para pequeños grandes exploradores</span>
-          <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500" />
-        </p>
-      </footer>
     </div>
   );
 }

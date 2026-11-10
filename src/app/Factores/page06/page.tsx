@@ -236,12 +236,6 @@ export default function ActividadQuienMeAyuda() {
       </main>
 
       {/* Pie de página exterior */}
-      <footer className="w-full max-w-6xl mt-4 flex flex-col sm:flex-row items-center justify-between text-[11px] text-slate-500 font-semibold px-2">
-        <span>Plataforma educativa de aprendizaje socioemocional • Nivel inicial (5-7 años)</span>
-        <span className="text-[#bd1e51] font-bold mt-1 sm:mt-0">
-          ♡ Con amor para pequeños grandes exploradores
-        </span>
-      </footer>
 
     </div>
   );

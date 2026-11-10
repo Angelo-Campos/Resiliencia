@@ -269,15 +269,6 @@ export default function AboutResiliencia() {
         </div>
       </section>
 
-
-      <footer className="max-w-6xl mx-auto px-6 py-6 border-t border-slate-200/60 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-slate-500 font-medium">
-        <span>Plataforma Educativa de Aprendizaje Socioemocional • Nivel Inicial (5-7 años)</span>
-        <span className="flex items-center gap-1">
-          <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500" />
-          Con amor para pequeños grandes exploradores
-        </span>
-      </footer>
-
     </div>
   );
 }

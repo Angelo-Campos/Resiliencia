@@ -2,7 +2,6 @@
 import Image from "next/image";
 import { Header } from "./components/header";
 import { Hero } from "./components/hero";
-import { Topics } from "./components/topics";
 import { Shop } from "./components/shop";
 import { zustandApi } from "@/Stores/zustandApi";
 import { useEffect } from "react";
@@ -23,7 +22,6 @@ export default function Home() {
   return (
     <>
     <Hero/>
-    <Topics/>
     <About/>
     <Members/>
     <Shop/>

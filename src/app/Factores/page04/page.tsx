@@ -193,12 +193,6 @@ export default function LoQueVivimosTambienNosEnsena() {
       </div>
 
       {/* Pie de Página Exterior */}
-      <footer className="w-full max-w-5xl flex flex-col sm:flex-row items-center justify-between text-[11px] text-slate-500 font-semibold px-2 pb-2">
-        <span>Plataforma Educativa de Aprendizaje Socioemocional • Nivel Inicial (5-7 años)</span>
-        <span className="text-[#bd1e51] font-bold mt-1 sm:mt-0">
-          ♡ Con amor para pequeños grandes exploradores
-        </span>
-      </footer>
 
     </div>
   );

@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Geist, Geist_Mono, Playfair_Display } from "next/font/google";
 import "./globals.css";
 import { Header } from "./components/header";
+import { Footer } from "./components/footer";
 import { AOSInit } from "./components/AOSInit";
 
 
@@ -34,7 +35,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       <body className="min-h-full flex flex-col pt-24">
         <AOSInit/>
         <Header/>
-        {children}
+        <div className="flex flex-1 flex-col">{children}</div>
+        <Footer/>
       </body>
     </html>
   );

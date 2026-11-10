@@ -17,7 +17,6 @@ import {
   Map, 
   CheckCircle2, 
   Lightbulb,
-  Heart
 } from 'lucide-react';
 
 export default function ImpulsividadPage() {
@@ -255,13 +254,6 @@ export default function ImpulsividadPage() {
       </div>
 
       {/* Footer minimalista */}
-      <footer data-aos="fade-up" data-aos-delay="400" className="max-w-7xl mx-auto w-full flex flex-col sm:flex-row items-center justify-between text-xs text-stone-500 pt-8 mt-8 border-t border-stone-200/40 gap-2">
-        <p>Plataforma Educativa de Aprendizaje Socioemocional • Nivel Inicial (5-7 años)</p>
-        <p className="flex items-center gap-1">
-          <span>Con amor para pequeños grandes exploradores</span>
-          <Heart className="w-3.5 h-3.5 text-rose-500 fill-rose-500" />
-        </p>
-      </footer>
     </div>
   );
 }

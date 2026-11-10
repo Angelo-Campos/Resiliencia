@@ -348,13 +348,6 @@ export default function SemaforoCuerpoPage() {
       </div>
 
       {/* Footer minimalista */}
-      <footer className="max-w-7xl mx-auto w-full flex flex-col sm:flex-row items-center justify-between text-xs text-stone-500 pt-8 mt-6 border-t border-stone-200/50 gap-2">
-        <p>Plataforma Educativa de Aprendizaje Socioemocional • Nivel Inicial (5-7 años)</p>
-        <p className="flex items-center gap-1">
-          <span>Con amor para pequeños grandes exploradores</span>
-          <span className="text-rose-500">♥</span>
-        </p>
-      </footer>
     </div>
   );
 }

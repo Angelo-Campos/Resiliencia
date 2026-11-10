@@ -186,12 +186,6 @@ import Link from "next/link";
         </footer>
 
       </main>
-
-      <footer className="w-full max-w-5xl mt-3 flex items-center justify-end text-[11px] font-semibold text-slate-500">
-        <span className="flex items-center gap-1">
-          ❤️ Con amor para pequeños grandes exploradores
-        </span>
-      </footer>
     </div>
   );
 

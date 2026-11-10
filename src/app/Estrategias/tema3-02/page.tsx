@@ -220,13 +220,6 @@ import Link from "next/link";
         </footer>
 
       </main>
-
-      <footer className="w-full max-w-5xl mt-3 flex items-center justify-between text-[11px] font-semibold text-slate-500">
-        <span>Plataforma Educativa de Aprendizaje Socioemocional • Nivel Inicial (5-7 años)</span>
-        <span className="flex items-center gap-1">
-          ❤️ Con amor para pequeños grandes exploradores
-        </span>
-      </footer>
     </div>
     
   
